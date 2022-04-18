@@ -9,3 +9,5 @@ CREATE TABLE cats (
     # Birthday of the cat
     PRIMARY KEY (id) # Make the id the primary key
 );
+
+#test
