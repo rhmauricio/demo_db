@@ -21,7 +21,7 @@ on:
 jobs:
   deploy:
     name: deploy
-    runs-on: demo
+    runs-on: demo-db
     permissions:
       actions: read
       contents: read
